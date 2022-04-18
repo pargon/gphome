@@ -1,5 +1,5 @@
 .img__profile {
-    background-image: url("./assets/img/gp_profile.jpg");
+    background-image: url("../img/gp_profile.jpg");
     height: 15rem;
     width: 100%;
     background-size: auto 100%;
@@ -7,7 +7,7 @@
 }
 
 .img__warehouse {
-    background-image: url("./assets/img/warehouse_managment.png");
+    background-image: url("../img/warehouse_managment.png");
     height: 15rem;
     width: 100%;
     background-size: auto 100%;
@@ -15,7 +15,7 @@
 }
 
 .img__apiwareh {
-    background-image: url("./assets/img/swagger_wareh.png");
+    background-image: url("../img/swagger_wareh.png");
     height: 15rem;
     width: 100%;
     background-size: auto 100%;
